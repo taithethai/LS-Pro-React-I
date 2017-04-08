@@ -4,12 +4,12 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* let
-	* const
-	* ES6 Classes
-	* import/export
-	* JSX
-	* this.props
+	* let - a better var, limited by scope
+	* const - constant, does not change
+	* ES6 Classes - different from a function in that it's not hoisted, but special in their own way.
+	* import/export - import allows you to pull a block (think legos) to use in your building, and export allows you to say that this lego building is one item you can use to build a lego block.
+	* JSX - syntax (Javascript XML), that allows you to write HTML style code that renders to normal HTML.
+	* this.props allows access to properties that called the component
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
